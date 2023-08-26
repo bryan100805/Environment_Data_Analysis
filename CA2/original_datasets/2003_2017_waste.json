@@ -1,0 +1,1802 @@
+[
+ {
+   "waste_type": "Food",
+   "waste_disposed_of_tonne": 679900,
+   "total_waste_recycled_tonne": 111100,
+   "total_waste_generated_tonne": 791000,
+   "recycling_rate": 0.14,
+   "year": 2016
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 576000,
+   "total_waste_recycled_tonne": 607100,
+   "total_waste_generated_tonne": 1183100,
+   "recycling_rate": 0.51,
+   "year": 2016
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 762700,
+   "total_waste_recycled_tonne": 59500,
+   "total_waste_generated_tonne": 822200,
+   "recycling_rate": 0.07,
+   "year": 2016
+ },
+ {
+   "waste_type": "C&D",
+   "waste_disposed_of_tonne": 9700,
+   "total_waste_recycled_tonne": 1585700,
+   "total_waste_generated_tonne": 1595400,
+   "recycling_rate": 0.99,
+   "year": 2016
+ },
+ {
+   "waste_type": "Horticultural waste",
+   "waste_disposed_of_tonne": 111500,
+   "total_waste_recycled_tonne": 209000,
+   "total_waste_generated_tonne": 320500,
+   "recycling_rate": 0.65,
+   "year": 2016
+ },
+ {
+   "waste_type": "Wood",
+   "waste_disposed_of_tonne": 119100,
+   "total_waste_recycled_tonne": 411600,
+   "total_waste_generated_tonne": 530700,
+   "recycling_rate": 0.78,
+   "year": 2016
+ },
+ {
+   "waste_type": "Ferrous metal",
+   "waste_disposed_of_tonne": 6000,
+   "total_waste_recycled_tonne": 1351500,
+   "total_waste_generated_tonne": 1357500,
+   "recycling_rate": 0.99,
+   "year": 2016
+ },
+ {
+   "waste_type": "Non-ferrous metal",
+   "waste_disposed_of_tonne": 1300,
+   "total_waste_recycled_tonne": 95900,
+   "total_waste_generated_tonne": 97200,
+   "recycling_rate": 0.99,
+   "year": 2016
+ },
+ {
+   "waste_type": "Used slag",
+   "waste_disposed_of_tonne": 4100,
+   "total_waste_recycled_tonne": 247000,
+   "total_waste_generated_tonne": 251100,
+   "recycling_rate": 0.98,
+   "year": 2016
+ },
+ {
+   "waste_type": "Ash & Sludge",
+   "waste_disposed_of_tonne": 199000,
+   "total_waste_recycled_tonne": 28300,
+   "total_waste_generated_tonne": 227300,
+   "recycling_rate": 0.13,
+   "year": 2016
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 57600,
+   "total_waste_recycled_tonne": 14700,
+   "total_waste_generated_tonne": 72300,
+   "recycling_rate": 0.2,
+   "year": 2016
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 139800,
+   "total_waste_recycled_tonne": 10900,
+   "total_waste_generated_tonne": 150700,
+   "recycling_rate": 0.07,
+   "year": 2016
+ },
+ {
+   "waste_type": "Scrap tyres",
+   "waste_disposed_of_tonne": 3000,
+   "total_waste_recycled_tonne": 29700,
+   "total_waste_generated_tonne": 32700,
+   "recycling_rate": 0.91,
+   "year": 2016
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc.)",
+   "waste_disposed_of_tonne": 375500,
+   "total_waste_recycled_tonne": 7000,
+   "total_waste_generated_tonne": 382500,
+   "recycling_rate": 0.02,
+   "year": 2016
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 3045200,
+   "total_waste_recycled_tonne": 4769000,
+   "total_waste_generated_tonne": 7814200,
+   "recycling_rate": 0.61,
+   "year": 2016
+ },
+ {
+   "waste_type": "Food",
+   "waste_disposed_of_tonne": 681400,
+   "total_waste_recycled_tonne": 104100,
+   "total_waste_generated_tonne": 785500,
+   "recycling_rate": 0.13,
+   "year": 2015
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 588500,
+   "total_waste_recycled_tonne": 603700,
+   "total_waste_generated_tonne": 1192200,
+   "recycling_rate": 0.51,
+   "year": 2015
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 766800,
+   "total_waste_recycled_tonne": 57800,
+   "total_waste_generated_tonne": 824600,
+   "recycling_rate": 0.07,
+   "year": 2015
+ },
+ {
+   "waste_type": "C&D",
+   "waste_disposed_of_tonne": 8900,
+   "total_waste_recycled_tonne": 1402900,
+   "total_waste_generated_tonne": 1411800,
+   "recycling_rate": 0.99,
+   "year": 2015
+ },
+ {
+   "waste_type": "Horticultural waste",
+   "waste_disposed_of_tonne": 124800,
+   "total_waste_recycled_tonne": 237200,
+   "total_waste_generated_tonne": 362000,
+   "recycling_rate": 0.66,
+   "year": 2015
+ },
+ {
+   "waste_type": "Wood",
+   "waste_disposed_of_tonne": 76900,
+   "total_waste_recycled_tonne": 293700,
+   "total_waste_generated_tonne": 370600,
+   "recycling_rate": 0.79,
+   "year": 2015
+ },
+ {
+   "waste_type": "Ferrous metal",
+   "waste_disposed_of_tonne": 15200,
+   "total_waste_recycled_tonne": 1333300,
+   "total_waste_generated_tonne": 1348500,
+   "recycling_rate": 0.99,
+   "year": 2015
+ },
+ {
+   "waste_type": "Non-ferrous metal",
+   "waste_disposed_of_tonne": 19600,
+   "total_waste_recycled_tonne": 160400,
+   "total_waste_generated_tonne": 180000,
+   "recycling_rate": 0.89,
+   "year": 2015
+ },
+ {
+   "waste_type": "Used slag",
+   "waste_disposed_of_tonne": 4100,
+   "total_waste_recycled_tonne": 365800,
+   "total_waste_generated_tonne": 369900,
+   "recycling_rate": 0.99,
+   "year": 2015
+ },
+ {
+   "waste_type": "Ash & Sludge",
+   "waste_disposed_of_tonne": 170800,
+   "total_waste_recycled_tonne": 25200,
+   "total_waste_generated_tonne": 196000,
+   "recycling_rate": 0.13,
+   "year": 2015
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 60600,
+   "total_waste_recycled_tonne": 14600,
+   "total_waste_generated_tonne": 75200,
+   "recycling_rate": 0.19,
+   "year": 2015
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 144200,
+   "total_waste_recycled_tonne": 12500,
+   "total_waste_generated_tonne": 156700,
+   "recycling_rate": 0.08,
+   "year": 2015
+ },
+ {
+   "waste_type": "Scrap tyres",
+   "waste_disposed_of_tonne": 2700,
+   "total_waste_recycled_tonne": 32800,
+   "total_waste_generated_tonne": 35500,
+   "recycling_rate": 0.92,
+   "year": 2015
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 359300,
+   "total_waste_recycled_tonne": 5700,
+   "total_waste_generated_tonne": 365000,
+   "recycling_rate": 0.02,
+   "year": 2015
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 3023800,
+   "total_waste_recycled_tonne": 4649700,
+   "total_waste_generated_tonne": 7673500,
+   "recycling_rate": 0.61,
+   "year": 2015
+ },
+ {
+   "waste_type": "Food",
+   "waste_disposed_of_tonne": 687200,
+   "total_waste_recycled_tonne": 101400,
+   "total_waste_generated_tonne": 788600,
+   "recycling_rate": 0.13,
+   "year": 2014
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 590800,
+   "total_waste_recycled_tonne": 646500,
+   "total_waste_generated_tonne": 1237400,
+   "recycling_rate": 0.52,
+   "year": 2014
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 789000,
+   "total_waste_recycled_tonne": 80000,
+   "total_waste_generated_tonne": 869000,
+   "recycling_rate": 0.09,
+   "year": 2014
+ },
+ {
+   "waste_type": "C&D",
+   "waste_disposed_of_tonne": 9700,
+   "total_waste_recycled_tonne": 1260000,
+   "total_waste_generated_tonne": 1269700,
+   "recycling_rate": 0.99,
+   "year": 2014
+ },
+ {
+   "waste_type": "Horticultural waste",
+   "waste_disposed_of_tonne": 115300,
+   "total_waste_recycled_tonne": 163000,
+   "total_waste_generated_tonne": 278300,
+   "recycling_rate": 0.59,
+   "year": 2014
+ },
+ {
+   "waste_type": "Wood",
+   "waste_disposed_of_tonne": 74500,
+   "total_waste_recycled_tonne": 293400,
+   "total_waste_generated_tonne": 367900,
+   "recycling_rate": 0.8,
+   "year": 2014
+ },
+ {
+   "waste_type": "Ferrous metal",
+   "waste_disposed_of_tonne": 57000,
+   "total_waste_recycled_tonne": 1388900,
+   "total_waste_generated_tonne": 1445900,
+   "recycling_rate": 0.96,
+   "year": 2014
+ },
+ {
+   "waste_type": "Non-ferrous metal",
+   "waste_disposed_of_tonne": 23700,
+   "total_waste_recycled_tonne": 94700,
+   "total_waste_generated_tonne": 118400,
+   "recycling_rate": 0.8,
+   "year": 2014
+ },
+ {
+   "waste_type": "Used slag",
+   "waste_disposed_of_tonne": 5100,
+   "total_waste_recycled_tonne": 361200,
+   "total_waste_generated_tonne": 366300,
+   "recycling_rate": 0.99,
+   "year": 2014
+ },
+ {
+   "waste_type": "Ash & Sludge",
+   "waste_disposed_of_tonne": 126800,
+   "total_waste_recycled_tonne": 21700,
+   "total_waste_generated_tonne": 148500,
+   "recycling_rate": 0.15,
+   "year": 2014
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 63800,
+   "total_waste_recycled_tonne": 15700,
+   "total_waste_generated_tonne": 79500,
+   "recycling_rate": 0.2,
+   "year": 2014
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 141800,
+   "total_waste_recycled_tonne": 16800,
+   "total_waste_generated_tonne": 158600,
+   "recycling_rate": 0.11,
+   "year": 2014
+ },
+ {
+   "waste_type": "Scrap tyres",
+   "waste_disposed_of_tonne": 3100,
+   "total_waste_recycled_tonne": 23100,
+   "total_waste_generated_tonne": 26200,
+   "recycling_rate": 0.88,
+   "year": 2014
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 355600,
+   "total_waste_recycled_tonne": 4700,
+   "total_waste_generated_tonne": 360100,
+   "recycling_rate": 0.01,
+   "year": 2014
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 3043400,
+   "total_waste_recycled_tonne": 4471100,
+   "total_waste_generated_tonne": 7514500,
+   "recycling_rate": 0.6,
+   "year": 2014
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 696000,
+   "total_waste_recycled_tonne": 100000,
+   "total_waste_generated_tonne": 796000,
+   "recycling_rate": 0.13,
+   "year": 2013
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 581700,
+   "total_waste_recycled_tonne": 679400,
+   "total_waste_generated_tonne": 1261100,
+   "recycling_rate": 0.54,
+   "year": 2013
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 741100,
+   "total_waste_recycled_tonne": 91100,
+   "total_waste_generated_tonne": 832200,
+   "recycling_rate": 0.11,
+   "year": 2013
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 12300,
+   "total_waste_recycled_tonne": 1683000,
+   "total_waste_generated_tonne": 1695300,
+   "recycling_rate": 0.99,
+   "year": 2013
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 77800,
+   "total_waste_recycled_tonne": 254600,
+   "total_waste_generated_tonne": 332400,
+   "recycling_rate": 0.77,
+   "year": 2013
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 131700,
+   "total_waste_recycled_tonne": 120900,
+   "total_waste_generated_tonne": 252600,
+   "recycling_rate": 0.48,
+   "year": 2013
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 46800,
+   "total_waste_recycled_tonne": 1369200,
+   "total_waste_generated_tonne": 1416000,
+   "recycling_rate": 0.97,
+   "year": 2013
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 21100,
+   "total_waste_recycled_tonne": 114000,
+   "total_waste_generated_tonne": 135100,
+   "recycling_rate": 0.84,
+   "year": 2013
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 8900,
+   "total_waste_recycled_tonne": 344800,
+   "total_waste_generated_tonne": 353700,
+   "recycling_rate": 0.97,
+   "year": 2013
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 176400,
+   "total_waste_recycled_tonne": 14200,
+   "total_waste_generated_tonne": 190600,
+   "recycling_rate": 0.07,
+   "year": 2013
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 58900,
+   "total_waste_recycled_tonne": 14600,
+   "total_waste_generated_tonne": 73500,
+   "recycling_rate": 0.2,
+   "year": 2013
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 140300,
+   "total_waste_recycled_tonne": 16300,
+   "total_waste_generated_tonne": 156600,
+   "recycling_rate": 0.1,
+   "year": 2013
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 2600,
+   "total_waste_recycled_tonne": 19000,
+   "total_waste_generated_tonne": 21600,
+   "recycling_rate": 0.88,
+   "year": 2013
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 330000,
+   "total_waste_recycled_tonne": 4800,
+   "total_waste_generated_tonne": 334800,
+   "recycling_rate": 0.01,
+   "year": 2013
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 3025600,
+   "total_waste_recycled_tonne": 4825900,
+   "total_waste_generated_tonne": 7851500,
+   "recycling_rate": 0.61,
+   "year": 2013
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 618100,
+   "total_waste_recycled_tonne": 85100,
+   "total_waste_generated_tonne": 703200,
+   "recycling_rate": 0.12,
+   "year": 2012
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 555300,
+   "total_waste_recycled_tonne": 696700,
+   "total_waste_generated_tonne": 1252000,
+   "recycling_rate": 0.56,
+   "year": 2012
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 721300,
+   "total_waste_recycled_tonne": 82100,
+   "total_waste_generated_tonne": 803400,
+   "recycling_rate": 0.1,
+   "year": 2012
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 9100,
+   "total_waste_recycled_tonne": 1282700,
+   "total_waste_generated_tonne": 1291800,
+   "recycling_rate": 0.99,
+   "year": 2012
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 107800,
+   "total_waste_recycled_tonne": 236000,
+   "total_waste_generated_tonne": 343800,
+   "recycling_rate": 0.69,
+   "year": 2012
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 139800,
+   "total_waste_recycled_tonne": 108000,
+   "total_waste_generated_tonne": 247800,
+   "recycling_rate": 0.44,
+   "year": 2012
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 54800,
+   "total_waste_recycled_tonne": 1331200,
+   "total_waste_generated_tonne": 1386000,
+   "recycling_rate": 0.96,
+   "year": 2012
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 25200,
+   "total_waste_recycled_tonne": 97300,
+   "total_waste_generated_tonne": 122500,
+   "recycling_rate": 0.79,
+   "year": 2012
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 9800,
+   "total_waste_recycled_tonne": 358000,
+   "total_waste_generated_tonne": 367800,
+   "recycling_rate": 0.97,
+   "year": 2012
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 160200,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 160200,
+   "recycling_rate": 0,
+   "year": 2012
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 55400,
+   "total_waste_recycled_tonne": 19500,
+   "total_waste_generated_tonne": 74900,
+   "recycling_rate": 0.26,
+   "year": 2012
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 141000,
+   "total_waste_recycled_tonne": 18300,
+   "total_waste_generated_tonne": 159300,
+   "recycling_rate": 0.11,
+   "year": 2012
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 2300,
+   "total_waste_recycled_tonne": 16100,
+   "total_waste_generated_tonne": 18400,
+   "recycling_rate": 0.88,
+   "year": 2012
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 333800,
+   "total_waste_recycled_tonne": 4600,
+   "total_waste_generated_tonne": 338400,
+   "recycling_rate": 0.01,
+   "year": 2012
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2933900,
+   "total_waste_recycled_tonne": 4335600,
+   "total_waste_generated_tonne": 7269500,
+   "recycling_rate": 0.6,
+   "year": 2012
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 605800,
+   "total_waste_recycled_tonne": 69700,
+   "total_waste_generated_tonne": 675500,
+   "recycling_rate": 0.1,
+   "year": 2011
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 603200,
+   "total_waste_recycled_tonne": 765000,
+   "total_waste_generated_tonne": 1368200,
+   "recycling_rate": 0.56,
+   "year": 2011
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 656000,
+   "total_waste_recycled_tonne": 77000,
+   "total_waste_generated_tonne": 733000,
+   "recycling_rate": 0.11,
+   "year": 2011
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 12600,
+   "total_waste_recycled_tonne": 1191100,
+   "total_waste_generated_tonne": 1203700,
+   "recycling_rate": 0.99,
+   "year": 2011
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 97400,
+   "total_waste_recycled_tonne": 176500,
+   "total_waste_generated_tonne": 273900,
+   "recycling_rate": 0.64,
+   "year": 2011
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 149800,
+   "total_waste_recycled_tonne": 89000,
+   "total_waste_generated_tonne": 238800,
+   "recycling_rate": 0.37,
+   "year": 2011
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 67600,
+   "total_waste_recycled_tonne": 1171600,
+   "total_waste_generated_tonne": 1239200,
+   "recycling_rate": 0.95,
+   "year": 2011
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 14500,
+   "total_waste_recycled_tonne": 102800,
+   "total_waste_generated_tonne": 117300,
+   "recycling_rate": 0.88,
+   "year": 2011
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 5700,
+   "total_waste_recycled_tonne": 335900,
+   "total_waste_generated_tonne": 341600,
+   "recycling_rate": 0.98,
+   "year": 2011
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 152900,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 152900,
+   "recycling_rate": 0,
+   "year": 2011
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 51400,
+   "total_waste_recycled_tonne": 21400,
+   "total_waste_generated_tonne": 72800,
+   "recycling_rate": 0.29,
+   "year": 2011
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 113700,
+   "total_waste_recycled_tonne": 17300,
+   "total_waste_generated_tonne": 131000,
+   "recycling_rate": 0.13,
+   "year": 2011
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 3700,
+   "total_waste_recycled_tonne": 18300,
+   "total_waste_generated_tonne": 22000,
+   "recycling_rate": 0.83,
+   "year": 2011
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 325200,
+   "total_waste_recycled_tonne": 3200,
+   "total_waste_generated_tonne": 328400,
+   "recycling_rate": 0.01,
+   "year": 2011
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2859500,
+   "total_waste_recycled_tonne": 4038800,
+   "total_waste_generated_tonne": 6898300,
+   "recycling_rate": 0.59,
+   "year": 2011
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 538100,
+   "total_waste_recycled_tonne": 102400,
+   "total_waste_generated_tonne": 640500,
+   "recycling_rate": 0.16,
+   "year": 2010
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 645700,
+   "total_waste_recycled_tonne": 738200,
+   "total_waste_generated_tonne": 1383900,
+   "recycling_rate": 0.53,
+   "year": 2010
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 662300,
+   "total_waste_recycled_tonne": 78100,
+   "total_waste_generated_tonne": 740400,
+   "recycling_rate": 0.11,
+   "year": 2010
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 9400,
+   "total_waste_recycled_tonne": 912400,
+   "total_waste_generated_tonne": 921800,
+   "recycling_rate": 0.99,
+   "year": 2010
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 80000,
+   "total_waste_recycled_tonne": 190000,
+   "total_waste_generated_tonne": 270000,
+   "recycling_rate": 0.7,
+   "year": 2010
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 151800,
+   "total_waste_recycled_tonne": 99200,
+   "total_waste_generated_tonne": 251000,
+   "recycling_rate": 0.4,
+   "year": 2010
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 67100,
+   "total_waste_recycled_tonne": 1127500,
+   "total_waste_generated_tonne": 1194600,
+   "recycling_rate": 0.94,
+   "year": 2010
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 12400,
+   "total_waste_recycled_tonne": 73100,
+   "total_waste_generated_tonne": 85500,
+   "recycling_rate": 0.85,
+   "year": 2010
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 3800,
+   "total_waste_recycled_tonne": 378900,
+   "total_waste_generated_tonne": 382700,
+   "recycling_rate": 0.99,
+   "year": 2010
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 114400,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 114400,
+   "recycling_rate": 0,
+   "year": 2010
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 60700,
+   "total_waste_recycled_tonne": 19200,
+   "total_waste_generated_tonne": 79900,
+   "recycling_rate": 0.24,
+   "year": 2010
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 106200,
+   "total_waste_recycled_tonne": 14700,
+   "total_waste_generated_tonne": 120900,
+   "recycling_rate": 0.12,
+   "year": 2010
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 4000,
+   "total_waste_recycled_tonne": 20000,
+   "total_waste_generated_tonne": 24000,
+   "recycling_rate": 0.83,
+   "year": 2010
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 303600,
+   "total_waste_recycled_tonne": 3800,
+   "total_waste_generated_tonne": 307400,
+   "recycling_rate": 0.01,
+   "year": 2010
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2759500,
+   "total_waste_recycled_tonne": 3757500,
+   "total_waste_generated_tonne": 6517000,
+   "recycling_rate": 0.58,
+   "year": 2010
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 529400,
+   "total_waste_recycled_tonne": 76700,
+   "total_waste_generated_tonne": 606100,
+   "recycling_rate": 0.13,
+   "year": 2009
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 626800,
+   "total_waste_recycled_tonne": 574200,
+   "total_waste_generated_tonne": 1201000,
+   "recycling_rate": 0.48,
+   "year": 2009
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 628600,
+   "total_waste_recycled_tonne": 60300,
+   "total_waste_generated_tonne": 688900,
+   "recycling_rate": 0.09,
+   "year": 2009
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 25100,
+   "total_waste_recycled_tonne": 1150700,
+   "total_waste_generated_tonne": 1175800,
+   "recycling_rate": 0.98,
+   "year": 2009
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 80200,
+   "total_waste_recycled_tonne": 207400,
+   "total_waste_generated_tonne": 287600,
+   "recycling_rate": 0.72,
+   "year": 2009
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 144600,
+   "total_waste_recycled_tonne": 93500,
+   "total_waste_generated_tonne": 238100,
+   "recycling_rate": 0.39,
+   "year": 2009
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 65800,
+   "total_waste_recycled_tonne": 806200,
+   "total_waste_generated_tonne": 872000,
+   "recycling_rate": 0.92,
+   "year": 2009
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 10100,
+   "total_waste_recycled_tonne": 47500,
+   "total_waste_generated_tonne": 57600,
+   "recycling_rate": 0.82,
+   "year": 2009
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 3800,
+   "total_waste_recycled_tonne": 418600,
+   "total_waste_generated_tonne": 422400,
+   "recycling_rate": 0.99,
+   "year": 2009
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 88900,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 88900,
+   "recycling_rate": 0,
+   "year": 2009
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 57500,
+   "total_waste_recycled_tonne": 15600,
+   "total_waste_generated_tonne": 73100,
+   "recycling_rate": 0.21,
+   "year": 2009
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 96500,
+   "total_waste_recycled_tonne": 12600,
+   "total_waste_generated_tonne": 109100,
+   "recycling_rate": 0.12,
+   "year": 2009
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 3900,
+   "total_waste_recycled_tonne": 18700,
+   "total_waste_generated_tonne": 22600,
+   "recycling_rate": 0.83,
+   "year": 2009
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 267700,
+   "total_waste_recycled_tonne": 3200,
+   "total_waste_generated_tonne": 270900,
+   "recycling_rate": 0.01,
+   "year": 2009
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2628900,
+   "total_waste_recycled_tonne": 3485200,
+   "total_waste_generated_tonne": 6114100,
+   "recycling_rate": 0.57,
+   "year": 2009
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 500000,
+   "total_waste_recycled_tonne": 68000,
+   "total_waste_generated_tonne": 568000,
+   "recycling_rate": 0.12,
+   "year": 2008
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 653900,
+   "total_waste_recycled_tonne": 608600,
+   "total_waste_generated_tonne": 1262500,
+   "recycling_rate": 0.48,
+   "year": 2008
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 623200,
+   "total_waste_recycled_tonne": 61200,
+   "total_waste_generated_tonne": 684400,
+   "recycling_rate": 0.09,
+   "year": 2008
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 22000,
+   "total_waste_recycled_tonne": 900000,
+   "total_waste_generated_tonne": 922000,
+   "recycling_rate": 0.98,
+   "year": 2008
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 79400,
+   "total_waste_recycled_tonne": 190200,
+   "total_waste_generated_tonne": 269600,
+   "recycling_rate": 0.71,
+   "year": 2008
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 133300,
+   "total_waste_recycled_tonne": 96000,
+   "total_waste_generated_tonne": 229300,
+   "recycling_rate": 0.42,
+   "year": 2008
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 49800,
+   "total_waste_recycled_tonne": 735000,
+   "total_waste_generated_tonne": 784800,
+   "recycling_rate": 0.94,
+   "year": 2008
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 13000,
+   "total_waste_recycled_tonne": 72000,
+   "total_waste_generated_tonne": 85000,
+   "recycling_rate": 0.85,
+   "year": 2008
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 5700,
+   "total_waste_recycled_tonne": 560500,
+   "total_waste_generated_tonne": 566200,
+   "recycling_rate": 0.99,
+   "year": 2008
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 114600,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 114600,
+   "recycling_rate": 0,
+   "year": 2008
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 47100,
+   "total_waste_recycled_tonne": 10000,
+   "total_waste_generated_tonne": 57100,
+   "recycling_rate": 0.18,
+   "year": 2008
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 82300,
+   "total_waste_recycled_tonne": 11000,
+   "total_waste_generated_tonne": 93300,
+   "recycling_rate": 0.12,
+   "year": 2008
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 3000,
+   "total_waste_recycled_tonne": 22100,
+   "total_waste_generated_tonne": 25100,
+   "recycling_rate": 0.88,
+   "year": 2008
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 300300,
+   "total_waste_recycled_tonne": 8000,
+   "total_waste_generated_tonne": 308300,
+   "recycling_rate": 0.03,
+   "year": 2008
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2627600,
+   "total_waste_recycled_tonne": 3342600,
+   "total_waste_generated_tonne": 5970200,
+   "recycling_rate": 0.56,
+   "year": 2008
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 507700,
+   "total_waste_recycled_tonne": 51200,
+   "total_waste_generated_tonne": 558900,
+   "recycling_rate": 0.09,
+   "year": 2007
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 583900,
+   "total_waste_recycled_tonne": 619000,
+   "total_waste_generated_tonne": 1202900,
+   "recycling_rate": 0.51,
+   "year": 2007
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 584800,
+   "total_waste_recycled_tonne": 75000,
+   "total_waste_generated_tonne": 659800,
+   "recycling_rate": 0.11,
+   "year": 2007
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 19000,
+   "total_waste_recycled_tonne": 759300,
+   "total_waste_generated_tonne": 778300,
+   "recycling_rate": 0.98,
+   "year": 2007
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 118400,
+   "total_waste_recycled_tonne": 127800,
+   "total_waste_generated_tonne": 246200,
+   "recycling_rate": 0.52,
+   "year": 2007
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 133500,
+   "total_waste_recycled_tonne": 91100,
+   "total_waste_generated_tonne": 224600,
+   "recycling_rate": 0.41,
+   "year": 2007
+ },
+ {
+   "waste_type": "Ferrous Metal",
+   "waste_disposed_of_tonne": 68500,
+   "total_waste_recycled_tonne": 668000,
+   "total_waste_generated_tonne": 736500,
+   "recycling_rate": 0.91,
+   "year": 2007
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 16700,
+   "total_waste_recycled_tonne": 75600,
+   "total_waste_generated_tonne": 92300,
+   "recycling_rate": 0.82,
+   "year": 2007
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 7200,
+   "total_waste_recycled_tonne": 520000,
+   "total_waste_generated_tonne": 527200,
+   "recycling_rate": 0.99,
+   "year": 2007
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 124600,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 124600,
+   "recycling_rate": 0,
+   "year": 2007
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 59500,
+   "total_waste_recycled_tonne": 5800,
+   "total_waste_generated_tonne": 65300,
+   "recycling_rate": 0.09,
+   "year": 2007
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 104100,
+   "total_waste_recycled_tonne": 6000,
+   "total_waste_generated_tonne": 110100,
+   "recycling_rate": 0.05,
+   "year": 2007
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 3500,
+   "total_waste_recycled_tonne": 22000,
+   "total_waste_generated_tonne": 25500,
+   "recycling_rate": 0.86,
+   "year": 2007
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 234600,
+   "total_waste_recycled_tonne": 14000,
+   "total_waste_generated_tonne": 248600,
+   "recycling_rate": 0.06,
+   "year": 2007
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2566000,
+   "total_waste_recycled_tonne": 3034800,
+   "total_waste_generated_tonne": 5600800,
+   "recycling_rate": 0.54,
+   "year": 2007
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 498000,
+   "total_waste_recycled_tonne": 44700,
+   "total_waste_generated_tonne": 542700,
+   "recycling_rate": 0.08,
+   "year": 2006
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 544900,
+   "total_waste_recycled_tonne": 571400,
+   "total_waste_generated_tonne": 1116300,
+   "recycling_rate": 0.51,
+   "year": 2006
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 579000,
+   "total_waste_recycled_tonne": 77800,
+   "total_waste_generated_tonne": 656800,
+   "recycling_rate": 0.12,
+   "year": 2006
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 15000,
+   "total_waste_recycled_tonne": 604000,
+   "total_waste_generated_tonne": 619000,
+   "recycling_rate": 0.98,
+   "year": 2006
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 142000,
+   "total_waste_recycled_tonne": 81700,
+   "total_waste_generated_tonne": 223700,
+   "recycling_rate": 0.37,
+   "year": 2006
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 144000,
+   "total_waste_recycled_tonne": 87000,
+   "total_waste_generated_tonne": 231000,
+   "recycling_rate": 0.38,
+   "year": 2006
+ },
+ {
+   "waste_type": "Ferrous Metals",
+   "waste_disposed_of_tonne": 68500,
+   "total_waste_recycled_tonne": 657400,
+   "total_waste_generated_tonne": 725900,
+   "recycling_rate": 0.91,
+   "year": 2006
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 16000,
+   "total_waste_recycled_tonne": 70700,
+   "total_waste_generated_tonne": 86700,
+   "recycling_rate": 0.82,
+   "year": 2006
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 53600,
+   "total_waste_recycled_tonne": 417000,
+   "total_waste_generated_tonne": 470600,
+   "recycling_rate": 0.89,
+   "year": 2006
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 126800,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 126800,
+   "recycling_rate": 0,
+   "year": 2006
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 56600,
+   "total_waste_recycled_tonne": 6400,
+   "total_waste_generated_tonne": 63000,
+   "recycling_rate": 0.1,
+   "year": 2006
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 87700,
+   "total_waste_recycled_tonne": 4100,
+   "total_waste_generated_tonne": 91800,
+   "recycling_rate": 0.04,
+   "year": 2006
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 4500,
+   "total_waste_recycled_tonne": 19400,
+   "total_waste_generated_tonne": 23900,
+   "recycling_rate": 0.81,
+   "year": 2006
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 227000,
+   "total_waste_recycled_tonne": 15300,
+   "total_waste_generated_tonne": 242300,
+   "recycling_rate": 0.06,
+   "year": 2006
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2563600,
+   "total_waste_recycled_tonne": 2656900,
+   "total_waste_generated_tonne": 5220500,
+   "recycling_rate": 0.51,
+   "year": 2006
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 495000,
+   "total_waste_recycled_tonne": 36500,
+   "total_waste_generated_tonne": 531500,
+   "recycling_rate": 0.07,
+   "year": 2005
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 558100,
+   "total_waste_recycled_tonne": 540500,
+   "total_waste_generated_tonne": 1098600,
+   "recycling_rate": 0.49,
+   "year": 2005
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 588800,
+   "total_waste_recycled_tonne": 86000,
+   "total_waste_generated_tonne": 674800,
+   "recycling_rate": 0.13,
+   "year": 2005
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 27200,
+   "total_waste_recycled_tonne": 465300,
+   "total_waste_generated_tonne": 492500,
+   "recycling_rate": 0.94,
+   "year": 2005
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 149300,
+   "total_waste_recycled_tonne": 90000,
+   "total_waste_generated_tonne": 239300,
+   "recycling_rate": 0.38,
+   "year": 2005
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 98500,
+   "total_waste_recycled_tonne": 101000,
+   "total_waste_generated_tonne": 199500,
+   "recycling_rate": 0.51,
+   "year": 2005
+ },
+ {
+   "waste_type": "Ferrous Metals",
+   "waste_disposed_of_tonne": 69200,
+   "total_waste_recycled_tonne": 749100,
+   "total_waste_generated_tonne": 818300,
+   "recycling_rate": 0.92,
+   "year": 2005
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 14700,
+   "total_waste_recycled_tonne": 74700,
+   "total_waste_generated_tonne": 89400,
+   "recycling_rate": 0.84,
+   "year": 2005
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 83500,
+   "total_waste_recycled_tonne": 298900,
+   "total_waste_generated_tonne": 382400,
+   "recycling_rate": 0.78,
+   "year": 2005
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 98300,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 98300,
+   "recycling_rate": 0,
+   "year": 2005
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 58800,
+   "total_waste_recycled_tonne": 3800,
+   "total_waste_generated_tonne": 62600,
+   "recycling_rate": 0.06,
+   "year": 2005
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 85000,
+   "total_waste_recycled_tonne": 4000,
+   "total_waste_generated_tonne": 89000,
+   "recycling_rate": 0.04,
+   "year": 2005
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 6000,
+   "total_waste_recycled_tonne": 10800,
+   "total_waste_generated_tonne": 16800,
+   "recycling_rate": 0.64,
+   "year": 2005
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 216400,
+   "total_waste_recycled_tonne": 8800,
+   "total_waste_generated_tonne": 225200,
+   "recycling_rate": 0.04,
+   "year": 2005
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2548800,
+   "total_waste_recycled_tonne": 2469400,
+   "total_waste_generated_tonne": 5018200,
+   "recycling_rate": 0.49,
+   "year": 2005
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 500000,
+   "total_waste_recycled_tonne": 31100,
+   "total_waste_generated_tonne": 531100,
+   "recycling_rate": 0.06,
+   "year": 2004
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 612200,
+   "total_waste_recycled_tonne": 519900,
+   "total_waste_generated_tonne": 1132100,
+   "recycling_rate": 0.46,
+   "year": 2004
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 609000,
+   "total_waste_recycled_tonne": 74100,
+   "total_waste_generated_tonne": 683100,
+   "recycling_rate": 0.11,
+   "year": 2004
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 38000,
+   "total_waste_recycled_tonne": 471000,
+   "total_waste_generated_tonne": 509000,
+   "recycling_rate": 0.93,
+   "year": 2004
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 148600,
+   "total_waste_recycled_tonne": 73700,
+   "total_waste_generated_tonne": 222300,
+   "recycling_rate": 0.33,
+   "year": 2004
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 99100,
+   "total_waste_recycled_tonne": 127900,
+   "total_waste_generated_tonne": 227000,
+   "recycling_rate": 0.56,
+   "year": 2004
+ },
+ {
+   "waste_type": "Ferrous Metals",
+   "waste_disposed_of_tonne": 70300,
+   "total_waste_recycled_tonne": 649900,
+   "total_waste_generated_tonne": 720200,
+   "recycling_rate": 0.9,
+   "year": 2004
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 15100,
+   "total_waste_recycled_tonne": 71800,
+   "total_waste_generated_tonne": 86900,
+   "recycling_rate": 0.83,
+   "year": 2004
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 7600,
+   "total_waste_recycled_tonne": 259600,
+   "total_waste_generated_tonne": 267200,
+   "recycling_rate": 0.97,
+   "year": 2004
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 93900,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 93900,
+   "recycling_rate": 0,
+   "year": 2004
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 68700,
+   "total_waste_recycled_tonne": 4900,
+   "total_waste_generated_tonne": 73600,
+   "recycling_rate": 0.07,
+   "year": 2004
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 109500,
+   "total_waste_recycled_tonne": 5000,
+   "total_waste_generated_tonne": 114500,
+   "recycling_rate": 0.04,
+   "year": 2004
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 7500,
+   "total_waste_recycled_tonne": 7200,
+   "total_waste_generated_tonne": 14700,
+   "recycling_rate": 0.49,
+   "year": 2004
+ },
+ {
+   "waste_type": "Others",
+   "waste_disposed_of_tonne": 103100,
+   "total_waste_recycled_tonne": 11000,
+   "total_waste_generated_tonne": 114100,
+   "recycling_rate": 0.1,
+   "year": 2004
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2482600,
+   "total_waste_recycled_tonne": 2307100,
+   "total_waste_generated_tonne": 4789700,
+   "recycling_rate": 0.48,
+   "year": 2004
+ },
+ {
+   "waste_type": "Food waste",
+   "waste_disposed_of_tonne": 515100,
+   "total_waste_recycled_tonne": 32900,
+   "total_waste_generated_tonne": 548000,
+   "recycling_rate": 0.06,
+   "year": 2003
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 618500,
+   "total_waste_recycled_tonne": 466200,
+   "total_waste_generated_tonne": 1084700,
+   "recycling_rate": 0.43,
+   "year": 2003
+ },
+ {
+   "waste_type": "Plastics",
+   "waste_disposed_of_tonne": 540800,
+   "total_waste_recycled_tonne": 39100,
+   "total_waste_generated_tonne": 579900,
+   "recycling_rate": 0.07,
+   "year": 2003
+ },
+ {
+   "waste_type": "Construction Debris",
+   "waste_disposed_of_tonne": 24600,
+   "total_waste_recycled_tonne": 398300,
+   "total_waste_generated_tonne": 422900,
+   "recycling_rate": 0.94,
+   "year": 2003
+ },
+ {
+   "waste_type": "Wood/Timber",
+   "waste_disposed_of_tonne": 172600,
+   "total_waste_recycled_tonne": 40800,
+   "total_waste_generated_tonne": 213400,
+   "recycling_rate": 0.19,
+   "year": 2003
+ },
+ {
+   "waste_type": "Horticultural Waste",
+   "waste_disposed_of_tonne": 185300,
+   "total_waste_recycled_tonne": 119300,
+   "total_waste_generated_tonne": 304600,
+   "recycling_rate": 0.39,
+   "year": 2003
+ },
+ {
+   "waste_type": "Ferrous Metals",
+   "waste_disposed_of_tonne": 57700,
+   "total_waste_recycled_tonne": 799000,
+   "total_waste_generated_tonne": 856700,
+   "recycling_rate": 0.93,
+   "year": 2003
+ },
+ {
+   "waste_type": "Non-ferrous Metals",
+   "waste_disposed_of_tonne": 18100,
+   "total_waste_recycled_tonne": 75800,
+   "total_waste_generated_tonne": 93900,
+   "recycling_rate": 0.81,
+   "year": 2003
+ },
+ {
+   "waste_type": "Used Slag",
+   "waste_disposed_of_tonne": 21800,
+   "total_waste_recycled_tonne": 238500,
+   "total_waste_generated_tonne": 260300,
+   "recycling_rate": 0.92,
+   "year": 2003
+ },
+ {
+   "waste_type": "Sludge",
+   "waste_disposed_of_tonne": 88500,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 88500,
+   "recycling_rate": 0,
+   "year": 2003
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 59300,
+   "total_waste_recycled_tonne": 6200,
+   "total_waste_generated_tonne": 65500,
+   "recycling_rate": 0.09,
+   "year": 2003
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 90700,
+   "total_waste_recycled_tonne": 900,
+   "total_waste_generated_tonne": 91600,
+   "recycling_rate": 0.01,
+   "year": 2003
+ },
+ {
+   "waste_type": "Scrap Tyres",
+   "waste_disposed_of_tonne": 8200,
+   "total_waste_recycled_tonne": 6200,
+   "total_waste_generated_tonne": 14400,
+   "recycling_rate": 0.43,
+   "year": 2003
+ },
+ {
+   "waste_type": "Others (stones, ceramics & rubber etc)",
+   "waste_disposed_of_tonne": 103800,
+   "total_waste_recycled_tonne": 0,
+   "total_waste_generated_tonne": 103800,
+   "recycling_rate": 0,
+   "year": 2003
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2505000,
+   "total_waste_recycled_tonne": 2223200,
+   "total_waste_generated_tonne": 4728200,
+   "recycling_rate": 0.47,
+   "year": 2003
+ },
+ {
+   "waste_type": "Construction debris",
+   "waste_disposed_of_tonne": 9400,
+   "total_waste_recycled_tonne": 1599900,
+   "total_waste_generated_tonne": 1609300,
+   "recycling_rate": 0.99,
+   "year": 2017
+ },
+ {
+   "waste_type": "Ferrous metal",
+   "waste_disposed_of_tonne": 7800,
+   "total_waste_recycled_tonne": 1371000,
+   "total_waste_generated_tonne": 1378800,
+   "recycling_rate": 0.99,
+   "year": 2017
+ },
+ {
+   "waste_type": "Used slag",
+   "waste_disposed_of_tonne": 3100,
+   "total_waste_recycled_tonne": 269400,
+   "total_waste_generated_tonne": 272500,
+   "recycling_rate": 0.99,
+   "year": 2017
+ },
+ {
+   "waste_type": "Non-ferrous metals",
+   "waste_disposed_of_tonne": 1500,
+   "total_waste_recycled_tonne": 92200,
+   "total_waste_generated_tonne": 93700,
+   "recycling_rate": 0.98,
+   "year": 2017
+ },
+ {
+   "waste_type": "Scrap tyres",
+   "waste_disposed_of_tonne": 2900,
+   "total_waste_recycled_tonne": 33000,
+   "total_waste_generated_tonne": 35900,
+   "recycling_rate": 0.92,
+   "year": 2017
+ },
+ {
+   "waste_type": "Wood",
+   "waste_disposed_of_tonne": 97300,
+   "total_waste_recycled_tonne": 326800,
+   "total_waste_generated_tonne": 424100,
+   "recycling_rate": 0.77,
+   "year": 2017
+ },
+ {
+   "waste_type": "Horticultural waste",
+   "waste_disposed_of_tonne": 107600,
+   "total_waste_recycled_tonne": 220700,
+   "total_waste_generated_tonne": 328300,
+   "recycling_rate": 0.67,
+   "year": 2017
+ },
+ {
+   "waste_type": "Paper/Cardboard",
+   "waste_disposed_of_tonne": 576000,
+   "total_waste_recycled_tonne": 568800,
+   "total_waste_generated_tonne": 1144800,
+   "recycling_rate": 0.5,
+   "year": 2017
+ },
+ {
+   "waste_type": "Glass",
+   "waste_disposed_of_tonne": 58900,
+   "total_waste_recycled_tonne": 12400,
+   "total_waste_generated_tonne": 71300,
+   "recycling_rate": 0.17,
+   "year": 2017
+ },
+ {
+   "waste_type": "Food",
+   "waste_disposed_of_tonne": 676800,
+   "total_waste_recycled_tonne": 133000,
+   "total_waste_generated_tonne": 809800,
+   "recycling_rate": 0.16,
+   "year": 2017
+ },
+ {
+   "waste_type": "Ash and sludge",
+   "waste_disposed_of_tonne": 214800,
+   "total_waste_recycled_tonne": 28600,
+   "total_waste_generated_tonne": 243400,
+   "recycling_rate": 0.12,
+   "year": 2017
+ },
+ {
+   "waste_type": "Plastic",
+   "waste_disposed_of_tonne": 763400,
+   "total_waste_recycled_tonne": 51800,
+   "total_waste_generated_tonne": 815200,
+   "recycling_rate": 0.06,
+   "year": 2017
+ },
+ {
+   "waste_type": "Textile/Leather",
+   "waste_disposed_of_tonne": 141200,
+   "total_waste_recycled_tonne": 9600,
+   "total_waste_generated_tonne": 150800,
+   "recycling_rate": 0.06,
+   "year": 2017
+ },
+ {
+   "waste_type": "Others (stones, ceramic, rubber, etc.)",
+   "waste_disposed_of_tonne": 319300,
+   "total_waste_recycled_tonne": 7100,
+   "total_waste_generated_tonne": 326400,
+   "recycling_rate": 0.02,
+   "year": 2017
+ },
+ {
+   "waste_type": "Total",
+   "waste_disposed_of_tonne": 2980000,
+   "total_waste_recycled_tonne": 4724300,
+   "total_waste_generated_tonne": 7704300,
+   "recycling_rate": 0.61,
+   "year": 2017
+ }
+]
